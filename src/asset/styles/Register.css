@@ -1,0 +1,16 @@
+.header-line {
+    width: 1px;
+    background-color: #fff;
+    height: 1.5rem;
+}
+
+.header-line > span {
+    font-weight: 100;
+}
+
+.btn-logout {
+    position: absolute;
+    right: 1rem;
+    top: 2rem;
+    border: none;
+}
